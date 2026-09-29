@@ -88,7 +88,7 @@ See näitab kõiki harusid, tage ja seda, kus `HEAD` parasjagu asub.
 - [x] Rebase-konfliktid lahendatud
 - [x] Repository GitHubi üles laetud
 - [x] README.md Markdowniga vormindatud
-- [ ] GitHub Skills „Communicate using Markdown“ kursus lõpetatud
+- [x] GitHub Skills „Communicate using Markdown“ kursus lõpetatud
 
 ## Kasulikud lingid
 
